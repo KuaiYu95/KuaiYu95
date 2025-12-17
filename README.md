@@ -1,4 +1,4 @@
-# 你好，我是 KuaiYu95 👋
+# 你好，我是 Holly 👋
 
 <div align="center">
   
@@ -70,9 +70,8 @@
 
 ## 📫 联系我
 
-[![Email](https://img.shields.io/badge/Email-kuaiyu95@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuaiyu95@example.com)
+[![Email](https://img.shields.io/badge/Email-kuaiyu95@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuaiyumobile@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kuaiyu95.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KuaiYu95-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuaiyu95)
 
 ## 💬 名言分享
 
